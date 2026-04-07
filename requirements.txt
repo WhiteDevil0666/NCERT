@@ -1,0 +1,22 @@
+# ================================================================
+# BrainForge v4.0 — Python Dependencies
+# Install with: pip install -r requirements.txt
+# ================================================================
+
+# Core framework
+streamlit
+
+# AI / LLM
+groq
+
+# Database
+supabase
+
+# Image processing
+Pillow
+
+# Embeddings (for NCERT vector search)
+sentence-transformers
+
+# Voice input
+streamlit-mic-recorder
